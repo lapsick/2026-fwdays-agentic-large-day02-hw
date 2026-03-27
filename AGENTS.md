@@ -38,5 +38,21 @@ yarn fix             # Auto-fix formatting and linting issues
 - Build system uses esbuild for packages, Vite for the app
 - TypeScript throughout with strict configuration
 
+## Tech Stack
+
+- **TypeScript** — all source code is strictly typed
+- **Yarn** — package manager and workspace orchestration
+- **Vite** — dev server and app bundler (`excalidraw-app/`)
+- **Vitest** — unit and integration test runner
+- **React** — UI framework (functional components + hooks)
+
+## Conventions
+
+See [.cursor/rules/conventions.instructions.md](.cursor/rules/conventions.instructions.md) for naming, component, and code style rules.
+
+## Do-Not-Touch / Constraints
+
+See [.cursor/rules/do-not-touch.instructions.md](.cursor/rules/do-not-touch.instructions.md) for files and areas that must not be modified.
+
 ## References
 - For details see the Memory Bank `docs/memory/techContext.md` and `docs/memory/systemPatterns.md` which contains technical context, and system patterns.
