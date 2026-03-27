@@ -540,7 +540,14 @@
     "version": "Version",
     "versionCopy": "Click to copy",
     "versionNotAvailable": "Version not available",
-    "width": "Width"
+    "width": "Width",
+    "position": "Position",
+    "dimensions": "Dimensions",
+    "style": "Style",
+    "textProperties": "Text",
+    "noSelection": "No element selected",
+    "multiSelection": "{{count}} elements selected",
+    "elementTypes": "Types"
   },
   "toast": {
     "addedToLibrary": "Added to library",
