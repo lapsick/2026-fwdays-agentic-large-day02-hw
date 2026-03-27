@@ -1,5 +1,9 @@
 # AGENTS.md
 
+## Project Overview
+
+Excalidraw is an open-source virtual whiteboard for sketching hand-drawn like diagrams. It is structured as a monorepo containing a publishable React component library (`@excalidraw/excalidraw`) and a full-featured collaborative web application (excalidraw.com). The project supports real-time collaboration, end-to-end encrypted sharing, and a rich set of drawing tools.
+
 ## Project Structure
 
 Excalidraw is a **monorepo** with a clear separation between the core library and the application:
